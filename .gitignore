@@ -20,6 +20,8 @@ target
 *.iml
 *.ipr
 
+### HbuilderX ###
+.hbuilderx
 
 ### NetBeans ###
 /nbproject/private/
